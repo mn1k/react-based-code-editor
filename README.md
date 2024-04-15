@@ -1,4 +1,4 @@
-# React Code Editor with Live Preview
+# Code Editor with Live Preview
 
 This project is a code editor built using React that allows you to write and test code in HTML, CSS, and JavaScript languages. With a live preview feature, you can see the real-time output of your code as you make changes. This code editor is built with a focus on simplicity, usability, and efficient code execution.
 
